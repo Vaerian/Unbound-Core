@@ -3,7 +3,7 @@
   "id": "unbound",
   "version": "${version}",
   "name": "Unbound",
-  "description": "A Modular Magic Mod",
+  "description": "A boundlessly modular magic mod",
   "authors": [
     "Vaerian"
   ],
